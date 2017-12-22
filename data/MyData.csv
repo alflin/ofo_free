@@ -1,0 +1,8 @@
+"","删掉","点赞","自行车 ID","密码","点赞数"
+"7","<button id=""button_7"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;select_button&quot;,  this.id)"">Delete</button>","<button id=""button_7"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;hi_button&quot;,  this.id)"">点赞</button>",7,"B",7
+"8","<button id=""button_8"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;select_button&quot;,  this.id)"">Delete</button>","<button id=""button_8"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;hi_button&quot;,  this.id)"">点赞</button>",8,"C",8
+"9","<button id=""button_9"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;select_button&quot;,  this.id)"">Delete</button>","<button id=""button_9"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;hi_button&quot;,  this.id)"">点赞</button>",9,"D",9
+"10","<button id=""button_10"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;select_button&quot;,  this.id)"">Delete</button>","<button id=""button_10"" type=""button"" class=""btn btn-default action-button"" onclick=""Shiny.onInputChange(&quot;hi_button&quot;,  this.id)"">点赞</button>",10,"E",10
+"5",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7.1",NA,NA,NA,NA,NA
